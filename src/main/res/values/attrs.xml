@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NZEmojiShowerLayout">
+        <attr name="nzCount" format="integer"/>
+        <attr name="nzTotalDuration" format="integer"/>
+        <attr name="nzDropDuration" format="integer"/>
+        <attr name="nzDropFrequency" format="integer"/>
+    </declare-styleable>
+
+</resources>
